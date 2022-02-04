@@ -16,7 +16,7 @@ I am a simple youtube thumbnail downloader telegram bot.</b>
 
 - <code>I will send the thumbnail.</code>
 
-<b>Made by @Mo_Tech_YT</b>
+<b>Made by @razkidz</b>
 
 """
 
@@ -24,15 +24,15 @@ START_BUTTON = InlineKeyboardMarkup(
 
         [[
 
-        InlineKeyboardButton('🗣️ Group', url='https://telegram.me/Mo_Tech_Group'),
+        InlineKeyboardButton('🗣️ Group', url='https://t.me/mallubotzofficial'),
 
-        InlineKeyboardButton('📢 Channel', url='https://telegram.me/Mo_Tech_YT'),
+        InlineKeyboardButton('📢 Channel', url='https://t.me/mallurockzofficial'),
 
-        InlineKeyboardButton('📃 Bot List', url='https://t.me/Mo_Tech_YT/176')
+        InlineKeyboardButton('📃 Bot List', url='https://t.me/mallurockzofficial/3')
 
         ],[
 
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ')
+        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/channel/UCYmBtjtt94XAalZkmFZrYcw')
 
         ]]
 
@@ -42,7 +42,7 @@ BUTTONS = InlineKeyboardMarkup(
 
         [[
 
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ')
+        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/channel/UCYmBtjtt94XAalZkmFZrYcw')
 
         ]]
 

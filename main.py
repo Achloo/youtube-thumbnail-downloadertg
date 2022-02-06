@@ -7,31 +7,18 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_TEXT = """
-
 <b>Hello {},
-
 I am a simple youtube thumbnail downloader telegram bot.</b>
-
 - <code>Send a youtube video link or video ID.</code>
-
 - <code>I will send the thumbnail.</code>
-
 <b>Made by @razkidz</b>
-
 """
-
 START_BUTTON = InlineKeyboardMarkup(
-
         [[
-
         InlineKeyboardButton('🗣️ Group', url='https://t.me/mallubotzofficial'),
-
         InlineKeyboardButton('📢 Channel', url='https://t.me/mallurockzofficial'),
-
         InlineKeyboardButton('📃 Bot List', url='https://t.me/mallurockzofficial/3')
-
         ],[
-
         InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/channel/UCYmBtjtt94XAalZkmFZrYcw')
 
         ]]

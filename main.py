@@ -26,13 +26,9 @@ START_BUTTON = InlineKeyboardMarkup(
     )
 
 BUTTONS = InlineKeyboardMarkup(
-
         [[
-
         InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/channel/UCYmBtjtt94XAalZkmFZrYcw')
-
         ]]
-
     )
 
 REGEX = r"^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$"
